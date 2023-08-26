@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_concurrency_text.png.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/concurrency_text.png"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_japan_1.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/japan_1.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_united_states_of_america_1.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/united_states_of_america_1.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_plus_icon.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/plus_icon.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_top_image.jpeg.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/top_image.jpeg"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/drawable_united_kingdom_1.xml.flat",
+        "source": "com.example.finalproject.app-main-46:/drawable/united_kingdom_1.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.finalproject.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
